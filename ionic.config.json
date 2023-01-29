@@ -1,0 +1,7 @@
+{
+  "name": "Kptm-Aduan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
